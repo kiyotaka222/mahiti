@@ -1,0 +1,6 @@
+,Customer ID,Purchase Amount,City_Bangalore,City_Delhi,City_Mumbai,Product Category_Appliances,Product Category_Clothing,Product Category_Electronics
+0,12345,200,False,False,True,False,False,True
+1,67890,150,False,True,False,False,True,False
+2,1234,300,True,False,False,False,False,True
+3,56789,400,False,False,True,True,False,False
+4,10112,250,False,True,False,False,True,False
